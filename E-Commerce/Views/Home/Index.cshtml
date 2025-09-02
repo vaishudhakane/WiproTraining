@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Welcome @ViewData["Username"]!</h2>
+<h3>Products</h3>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="https://i.etsystatic.com/28638677/r/il/34354e/2973865700/il_1588xN.2973865700_eidj.jpg" alt="Product 1" class="img-fluid" />
+        <h3>Kurta set</h3>
+        <p>Description of Product 1</p>
+        <a asp-action="Index" asp-controller="Cart">Add to cart</a>
+    </div>
+    <div class="col-md-4">
+        <img src="https://i.pinimg.com/originals/80/e7/bc/80e7bca43b46fd42da51525cd44c6030.jpg" alt="Product 2" class="img-fluid" />
+        <h3>Saree</h3>
+        <p>Description of Product 2</p>
+        <a asp-action="Index" asp-controller="Cart">Add to cart</a>
+    </div>
+    <div class="col-md-4">
+        <img src="https://handcmediastorage.blob.core.windows.net/productimages/FD/FDPMU006-J18-125504-1400px-1820px.jpg" alt="Product 3" class="img-fluid" />
+        <h3>Shirt</h3>
+        <p>Description of Product 3</p>
+        @* <a asp-controller="Cart" asp-action="AddProduct" asp-route-id="3" asp-route-name="Shirt" asp-route-quantity="1" asp-route-price="500">Add to Cart</a> *@
+
+        <a asp-action="Index" asp-controller="Cart">Add to cart</a>
+
+    </div>
+</div>
+

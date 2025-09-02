@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\wipro_page1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F499429F-5636-4EE4-9EED-E9F4E4C5325D}|wipro_page1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\wipro_page1\\pages\\wipro_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F499429F-5636-4EE4-9EED-E9F4E4C5325D}|wipro_page1.csproj|solutionrelative:pages\\wipro_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wipro_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\wipro_page1\\Pages\\wipro_page.cshtml",
+              "RelativeDocumentMoniker": "Pages\\wipro_page.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\wipro_page1\\Pages\\wipro_page.cshtml",
+              "RelativeToolTip": "Pages\\wipro_page.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T09:27:01.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

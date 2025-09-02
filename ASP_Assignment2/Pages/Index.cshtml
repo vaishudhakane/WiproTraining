@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Item List";
+}
+
+<h1>Item List</h1>
+
+<ul>
+    @foreach (var item in Model.Items)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+
+<a asp-page="AddItem">Add New Item</a>

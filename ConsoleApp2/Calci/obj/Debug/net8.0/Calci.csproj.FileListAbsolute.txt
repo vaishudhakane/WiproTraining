@@ -1,0 +1,16 @@
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.csproj.AssemblyReference.cache
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.AssemblyInfoInputs.cache
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.AssemblyInfo.cs
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.csproj.CoreCompileInputs.cache
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\Calci.deps.json
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\Calci.dll
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\Calci.pdb
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\bin\Debug\net8.0\ConsoleApp2.exe.config
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.csproj.Up2Date
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.dll
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\refint\Calci.dll
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\Calci.pdb
+C:\Users\Vaishnavi  Dhakane\source\repos\ConsoleApp2\Calci\obj\Debug\net8.0\ref\Calci.dll

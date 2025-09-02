@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_web_razor\\core_web_razor\\pages\\static_files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|solutionrelative:core_web_razor\\pages\\static_files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_web_razor\\core_web_razor\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|solutionrelative:core_web_razor\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_web_razor\\core_web_razor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ACD59045-661E-414F-8589-3C3F41F97449}|Core_Web_Razor\\Core_Web_Razor.csproj|solutionrelative:core_web_razor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Core_Web_Razor\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Core_Web_Razor\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-29T09:36:50.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Core_Web_Razor\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Core_Web_Razor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T09:31:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static_files.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\Pages\\static_files.cshtml",
+              "RelativeDocumentMoniker": "Core_Web_Razor\\Pages\\static_files.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_Web_Razor\\Core_Web_Razor\\Pages\\static_files.cshtml",
+              "RelativeToolTip": "Core_Web_Razor\\Pages\\static_files.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T09:30:56.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

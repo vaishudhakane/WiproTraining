@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\filterpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\filterpractice\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\filterpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\filterpractice\\models\\loginactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14130E2-0EC5-46F4-8C35-23C97C754458}|filterpractice.csproj|solutionrelative:models\\loginactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAIAAADgmJmZmZkuwA8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:11:13.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Views\\Home\\About.cshtml*",
+              "RelativeToolTip": "Views\\Home\\About.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T04:10:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Models\\LoginActionFilter.cs",
+              "RelativeDocumentMoniker": "Models\\LoginActionFilter.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Models\\LoginActionFilter.cs*",
+              "RelativeToolTip": "Models\\LoginActionFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:02:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\filterpractice\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABYAAADgmJmZmZkswCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:01:31.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

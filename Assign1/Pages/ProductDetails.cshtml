@@ -1,0 +1,20 @@
+﻿@page "{id:int}"
+@model Assign1.Pages.ProductDetailsModel;
+
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<div>
+    <h2>@Model.Product.Name</h2>
+    <p>@Model.Product.Description</p>
+    <ul>
+        @foreach (var category in Model.Product.Categories)
+        {
+            <li>@category.CategoryName</li>
+        }
+    </ul>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nR7lz5dUIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\ConsoleApp2\\Calci\\Calci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaishnavi  Dhakane\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

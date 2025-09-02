@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\views\\home\\customtag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:views\\home\\customtag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\views\\wipro\\tag_helpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:views\\wipro\\tag_helpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\customhelper\\customhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:customhelper\\customhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\core_mvc_demo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:core_mvc_demo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\views\\wipro\\form_validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:views\\wipro\\form_validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\core_mvc_demo2\\models\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD42214-DE11-4733-9C0A-75E8BCEEE87B}|Core_MVC_demo2.csproj|solutionrelative:models\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:12:48.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customtag.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Home\\customtag.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\customtag.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Home\\customtag.cshtml*",
+              "RelativeToolTip": "Views\\Home\\customtag.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:12:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tag_helpers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Wipro\\tag_helpers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wipro\\tag_helpers.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Wipro\\tag_helpers.cshtml",
+              "RelativeToolTip": "Views\\Wipro\\tag_helpers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:12:13.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\customhelper\\CustomHelper.cs",
+              "RelativeDocumentMoniker": "customhelper\\CustomHelper.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\customhelper\\CustomHelper.cs*",
+              "RelativeToolTip": "customhelper\\CustomHelper.cs*",
+              "ViewState": "AgIAAAIAAACcmZmZmZknwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:05:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core_MVC_demo2",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Core_MVC_demo2.csproj",
+              "RelativeDocumentMoniker": "Core_MVC_demo2.csproj",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Core_MVC_demo2.csproj*",
+              "RelativeToolTip": "Core_MVC_demo2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T10:03:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAABAzMzMzMwnwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:01:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAYmpmZmdkhwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:48:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "form_validation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Wipro\\form_validation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wipro\\form_validation.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Views\\Wipro\\form_validation.cshtml",
+              "RelativeToolTip": "Views\\Wipro\\form_validation.cshtml",
+              "ViewState": "AgIAAAMAAADgMTMzMzMbwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:41:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WiproController.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Controllers\\WiproController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WiproController.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Controllers\\WiproController.cs",
+              "RelativeToolTip": "Controllers\\WiproController.cs",
+              "ViewState": "AgIAAAcAAACQmZmZmZktwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:40:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Models\\UserView.cs",
+              "RelativeDocumentMoniker": "Models\\UserView.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Core_MVC_demo2\\Models\\UserView.cs",
+              "RelativeToolTip": "Models\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:36:42.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

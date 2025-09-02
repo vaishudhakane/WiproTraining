@@ -1,0 +1,57 @@
+﻿@page
+@model Core_Web_Razor.Pages.Page2Model
+@{
+}
+<h1>Inline expression</h1>
+<h2>@DateTime.Now.ToShortDateString()</h2>
+
+<h1>Multiline expression</h1>
+@{
+	var date = DateTime.Now.ToShortDateString();
+	var message = "Hello World";
+}
+
+<h2>@date</h2>
+<h2>@message</h2>
+
+
+@{
+	var x = 10;
+	if(x == 10)
+	{
+		<h1>x is 10</h1>
+	}
+	else
+	{
+		<h1>x is not 10</h1>
+	}
+
+	int day = 1;
+	switch(day)
+	{
+		case 1:
+			<h1>It's Monday</h1>
+			break; 
+
+		case 2:
+			<h1>Its Tuesday</h1>
+			break;
+
+		case 3:
+			<h1>It's Wednesday</h1>
+			break;
+
+		default:
+			<h1>Plz enter valid day number</h1>
+			break;
+	}
+
+}
+
+@{
+	for(int i=1;i<5;i++)
+	{
+		<h2>Value of i: @i</h2>
+	}
+	
+}

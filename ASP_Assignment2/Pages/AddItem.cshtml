@@ -1,0 +1,12 @@
+﻿@page
+@model ASP_Assignment2.Pages.AddItemModel
+@{
+}
+
+<h1>Add Item</h1>
+
+<form method="post">
+    <label asp-for="Item.Name"></label>
+    <input asp-for="Item.Name" />
+    <button type="submit">Add</button>
+</form>

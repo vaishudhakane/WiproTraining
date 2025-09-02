@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MVC_Core1.Models.Employee
+
+
+
+<html>
+    <head>
+	<title>Employee Details</title>
+	<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            color:mediumorchid
+		}
+    </style>
+    </head>
+
+    <body>
+        <h1>Employee Details</h1>
+        <p><strong>Employee ID:</strong> @Model.empid</p>
+        <p><strong>First Name:</strong> @Model.firstname</p>
+        <p><strong>Last Name:</strong> @Model.lastname</p>
+	<p><strong>City:</strong> @Model.city</p>
+    </body>
+</html>

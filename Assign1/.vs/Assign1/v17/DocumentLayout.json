@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\shared\\_details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\shared\\_details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\shared\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\shared\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\data\\assign1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:data\\assign1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|c:\\users\\vaishnavi  dhakane\\source\\repos\\assign1\\pages\\productdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C93F4-DD7A-4958-9857-B9A89A11F099}|Assign1.csproj|solutionrelative:pages\\productdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Shared\\_Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Shared\\_Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:10:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:10:58.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assign1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Data\\Assign1Context.cs",
+              "RelativeDocumentMoniker": "Data\\Assign1Context.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Data\\Assign1Context.cs",
+              "RelativeToolTip": "Data\\Assign1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:10:58.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\ProductDetails.cshtml",
+              "RelativeToolTip": "Pages\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:33:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAgmZmZmZklwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:34:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:34:01.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAADQPM7Xyxr4vxUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:26:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Shared\\_Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\Shared\\_Details.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T19:10:59.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAkAAABAmZmZmRkxwAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:25:58.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\ProductDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vaishnavi  Dhakane\\source\\repos\\Assign1\\Pages\\ProductDetails.cshtml.cs",
+              "RelativeToolTip": "Pages\\ProductDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:35:16.31Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
