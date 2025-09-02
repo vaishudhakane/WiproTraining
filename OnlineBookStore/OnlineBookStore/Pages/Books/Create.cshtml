@@ -1,0 +1,30 @@
+@page
+@model OnlineBookStore.Pages.Books.CreateModel
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Create Book";
+}
+<h2>Create Book</h2>
+<form method="post">
+    <div class="mb-2">
+        <label asp-for="Book.Title"></label>
+        <input asp-for="Book.Title" class="form-control"/>
+        <span asp-validation-for="Book.Title" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Book.Author"></label>
+        <input asp-for="Book.Author" class="form-control"/>
+        <span asp-validation-for="Book.Author" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Book.ISBN"></label>
+        <input asp-for="Book.ISBN" class="form-control"/>
+        <span asp-validation-for="Book.ISBN" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Book.Price"></label>
+        <input asp-for="Book.Price" class="form-control"/>
+        <span asp-validation-for="Book.Price" class="text-danger"></span>
+    </div>
+    <button class="btn btn-primary" type="submit">Save</button>
+</form>

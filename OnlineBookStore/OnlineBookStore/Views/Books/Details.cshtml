@@ -1,0 +1,16 @@
+@model Book
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>@Model.Title</h2>
+<p><strong>Author:</strong> @Model.Author</p>
+<p><strong>ISBN:</strong> @Model.ISBN</p>
+<p><strong>Price:</strong> @Model.Price.ToString("C")</p>
+
+<form method="post" asp-page="/Cart/Index" asp-page-handler="Add">
+    <input type="hidden" name="BookId" value="@Model.Id" />
+    <input type="hidden" name="Title" value="@Model.Title" />
+    <input type="hidden" name="UnitPrice" value="@Model.Price" />
+    <input type="number" name="Quantity" value="1" min="1" class="form-control" style="width:120px;" />
+    <button class="btn btn-primary mt-2" type="submit">Add to Cart</button>
+</form>

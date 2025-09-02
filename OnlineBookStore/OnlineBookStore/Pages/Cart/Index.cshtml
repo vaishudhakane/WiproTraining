@@ -1,0 +1,44 @@
+@page
+@model OnlineBookStore.Pages.Cart.IndexModel
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Cart";
+}
+<h2>Your Cart</h2>
+@if (!Model.Items.Any())
+{
+    <p>Cart is empty. <a href="/books">Browse books</a>.</p>
+}
+else
+{
+<table class="table">
+<thead><tr><th>Title</th><th>Qty</th><th>Price</th><th>Subtotal</th><th></th></tr></thead>
+<tbody>
+@foreach (var i in Model.Items)
+{
+  <tr>
+    <td>@i.Title</td>
+    <td>@i.Quantity</td>
+    <td>@i.UnitPrice.ToString("C")</td>
+    <td>@(i.Quantity*i.UnitPrice).ToString("C")</td>
+    <td>
+      <form method="post" asp-page-handler="Remove">
+        <input type="hidden" name="bookId" value="@i.BookId" />
+        <button class="btn btn-sm btn-danger" type="submit">Remove</button>
+      </form>
+    </td>
+  </tr>
+}
+</tbody>
+<tfoot><tr><td colspan="3" class="text-end"><strong>Total</strong></td><td>@Model.Total.ToString("C")</td><td></td></tr></tfoot>
+</table>
+
+@if (User.Identity?.IsAuthenticated ?? false)
+{
+  <a class="btn btn-success" href="/orders/summary">Proceed to Checkout</a>
+}
+else
+{
+  <a class="btn btn-primary" href="/Account/Login?returnUrl=/orders/summary">Login to Checkout</a>
+}
+}

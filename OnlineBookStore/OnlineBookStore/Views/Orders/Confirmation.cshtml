@@ -1,0 +1,5 @@
+@model OnlineBookStore.Models.Order
+<h2>Order Confirmed</h2>
+<p>Order #@Model.Id placed at @Model.CreatedUtc.ToLocalTime()</p>
+<p>Total: @Model.Total.ToString("C")</p>
+<p><a href="/books">Continue shopping</a></p>

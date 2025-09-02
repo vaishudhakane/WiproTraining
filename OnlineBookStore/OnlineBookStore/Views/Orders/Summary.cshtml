@@ -1,0 +1,15 @@
+@model OrderSummaryVm
+<h2>Order Summary</h2>
+<table class="table">
+<thead><tr><th>Title</th><th>Qty</th><th>Price</th><th>Subtotal</th></tr></thead>
+<tbody>
+@foreach (var i in Model.Items)
+{
+  <tr><td>@i.Title</td><td>@i.Quantity</td><td>@i.UnitPrice.ToString("C")</td><td>@(i.Quantity*i.UnitPrice).ToString("C")</td></tr>
+}
+</tbody>
+<tfoot><tr><td colspan="3" class="text-end"><strong>Total</strong></td><td>@Model.Total.ToString("C")</td></tr></tfoot>
+</table>
+<form method="post" asp-action="Confirm">
+    <button type="submit" class="btn btn-success">Confirm Order</button>
+</form>

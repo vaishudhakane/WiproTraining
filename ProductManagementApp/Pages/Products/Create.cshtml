@@ -1,0 +1,49 @@
+   @page
+   @model ProductManagementApp.Pages.Products.CreateModel
+   @using ProductManagementApp.Models
+   @{
+       ViewData["Title"] = "Create Product";
+   }
+
+   <h1>Create Product</h1>
+
+   <form method="post">
+       <div>
+           <label asp-for="Product.Name"></label>
+           <input asp-for="Product.Name" />
+       </div>
+       <div>
+           <label asp-for="Product.Description"></label>
+           <textarea asp-for="Product.Description"></textarea>
+       </div>
+       <div>
+           <h3>Categories</h3>
+           <div id="categories">
+               @for (int i = 0; i < Model.Product.Categories.Count; i++)
+               {
+                   <div>
+                       <label asp-for="Product.Categories[i].CategoryName"></label>
+                       <input asp-for="Product.Categories[i].CategoryName" />
+                       <input type="hidden" asp-for="Product.Categories[i].CategoryID" />
+                   </div>
+               }
+           </div>
+           <button type="button" id="addCategory">Add Category</button>
+       </div>
+       <button type="submit">Create Product</button>
+   </form>
+
+   <script>
+       document.getElementById('addCategory').addEventListener('click', function () {
+           const categoriesDiv = document.getElementById('categories');
+           const index = categoriesDiv.children.length;
+           const newCategoryDiv = document.createElement('div');
+           newCategoryDiv.innerHTML = `
+               <label for="Product_Categories_${index}__CategoryName">Category Name</label>
+               <input type="text" name="Product.Categories[${index}].CategoryName" />
+               <input type="hidden" name="Product.Categories[${index}].CategoryID" />
+           `;
+           categoriesDiv.appendChild(newCategoryDiv);
+       });
+   </script>
+   

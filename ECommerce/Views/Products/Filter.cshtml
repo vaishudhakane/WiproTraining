@@ -1,0 +1,14 @@
+@model List<Product>
+
+<h1>Filtered Products</h1>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>
+            <h2>@product.Name</h2>
+            <p>Category: @product.Category</p>
+            <p>Price: @product.Price</p>
+        </li>
+    }
+</ul>

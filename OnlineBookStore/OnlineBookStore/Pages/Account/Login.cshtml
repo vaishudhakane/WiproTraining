@@ -1,0 +1,18 @@
+@page
+@model OnlineBookStore.Pages.Account.LoginModel
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Login";
+}
+<h2>Login</h2>
+<form method="post">
+    <div class="mb-2">
+        <label>Username</label>
+        <input name="UserName" class="form-control" />
+    </div>
+    <div class="mb-2">
+        <label>Password</label>
+        <input name="Password" type="password" class="form-control" />
+    </div>
+    <button class="btn btn-primary" type="submit">Login</button>
+</form>

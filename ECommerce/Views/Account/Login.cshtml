@@ -1,0 +1,15 @@
+<h1>Login</h1>
+
+<form asp-action="Login" asp-controller="Account" method="post">
+    <div>
+        <label>Username:</label>
+        <input type="text" name="username" />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input type="password" name="password" />
+    </div>
+    <button type="submit">Login</button>
+</form>
+
+<a asp-action="Register" asp-controller="Account">Register</a>

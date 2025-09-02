@@ -1,0 +1,37 @@
+@model IEnumerable<OnlineBookStore.Models.Book>
+
+@{
+    ViewData["Title"] = "Books List";
+}
+
+<h1>Books</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>ISBN</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Author</td>
+            <td>@book.ISBN</td>
+            <td>@book.Price</td>
+            <td>
+                <a asp-controller="Books" asp-action="Details" asp-route-id="@book.Id">Details</a> |
+                <a asp-controller="Books" asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                <a asp-controller="Books" asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a asp-controller="Books" asp-action="Create" class="btn btn-primary">Add New Book</a>

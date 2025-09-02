@@ -1,0 +1,9 @@
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.csproj.AssemblyReference.cache
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.AssemblyInfoInputs.cache
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.AssemblyInfo.cs
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.csproj.CoreCompileInputs.cache
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.RazorAssemblyInfo.cache
+D:\ASP.net manual asssignments\OnlineBookStore\OnlineBookStore\obj\Debug\net9.0\OnlineBookStore.RazorAssemblyInfo.cs

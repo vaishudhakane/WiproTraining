@@ -1,0 +1,36 @@
+   @page
+   @model ProductManagementApp.Pages.Products.IndexModel
+   @using ProductManagementApp.Models
+   @{
+       ViewData["Title"] = "Product List";
+   }
+
+   <h1>Product List</h1>
+
+   <a href="/Create">Create New Product</a>
+
+   <table>
+       <thead>
+           <tr>
+               <th>Name</th>
+               <th>Description</th>
+               <th>Categories</th>
+           </tr>
+       </thead>
+       <tbody>
+           @foreach (var product in Model.Products)
+           {
+               <tr>
+                   <td>@product.Name</td>
+                   <td>@product.Description</td>
+                   <td>
+                       @foreach (var category in product.Categories)
+                       {
+                           <span>@category.CategoryName</span><br />
+                       }
+                   </td>
+               </tr>
+           }
+       </tbody>
+   </table>
+   

@@ -1,0 +1,14 @@
+   @model ProductManagementApp.Models.Product
+
+   <div class="product-summary">
+       <h3>@Model.Name</h3>
+       <p>@Model.Description</p>
+       <h4>Categories:</h4>
+       <ul>
+           @foreach (var category in Model.Categories)
+           {
+               <li>@category.CategoryName</li>
+           }
+       </ul>
+   </div>
+   

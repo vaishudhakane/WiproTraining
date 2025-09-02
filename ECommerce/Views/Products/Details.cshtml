@@ -1,0 +1,17 @@
+
+@model Product
+
+
+<h1>Product Details</h1>
+
+<!-- <p>Category: @Model.Category</p>
+<p>Name: @Model.Name</p>
+<p>Price: @Model.Price</p> -->
+<div>
+    <p>Category: @Model.Category</p>
+    <h2>@Model.Name</h2>
+    <p>Price: @Model.Price</p>
+    <a asp-action="AddToCart" asp-controller="ShoppingCart" asp-route-id="@Model.Id">Add to Cart</a>
+</div>
+
+

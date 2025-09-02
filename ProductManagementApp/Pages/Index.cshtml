@@ -1,0 +1,18 @@
+﻿   @page
+   @model ProductManagementApp.Pages.Products.IndexModel
+   @using ProductManagementApp.Models
+   @{
+       ViewData["Title"] = "Product List";
+   }
+
+   <h1>Product List</h1>
+
+   <a href="Create">Create New Product</a>
+
+   <div>
+       @foreach (var product in Model.Products)
+       {
+           @await Html.PartialAsync("_ProductSummary", product)
+       }
+   </div>
+   
