@@ -1,0 +1,291 @@
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.csproj.AssemblyReference.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.AssemblyInfoInputs.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.AssemblyInfo.cs
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.MvcApplicationPartsAssemblyInfo.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.RazorAssemblyInfo.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.RazorAssemblyInfo.cs
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.sourcelink.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\appsettings.Development.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\appsettings.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.staticwebassets.runtime.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.staticwebassets.endpoints.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.exe
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.deps.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.runtimeconfig.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.pdb
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Azure.Core.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Azure.Identity.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.ClientModel.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.Memory.Data.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\bundle\BookStoreAssignmentD3.styles.css
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\projectbundle\BookStoreAssignmentD3.bundle.scp.css
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\dsq2o04l60-b9sayid5wm.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\bih0mxpnp7-61n19gt1b8.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\fph4zpyzfl-xtxxf3hu2r.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hchzgswcny-bqjiyaj88i.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\8vl0unfp5m-c2jlpeoesf.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\78xxr855be-erw9l3u2r3.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\j6fzvqd0gl-aexeepp0ev.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q6rec5e9yu-d7shbmvgxk.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q40loj7cb3-ausgxo2sd3.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ub9lsi1qq1-k8d9w2qqmf.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\aa4i1wusue-cosvhxvwiu.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q9p8pku31j-ub07r2b239.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\u9hyn6h65z-fvhpjtyr6v.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0qhq4v0e4e-b7pk76d08c.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\z903f9rcg4-fsbi9cje9m.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\1k6pvtkd8z-rzd6atqjts.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\yddmf13agl-ee0r1s7dh0.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ctchorqx8w-dxx9fxp4il.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\j051aph4q8-jd9uben2k1.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0vuddrnqkk-khv3u5hwcm.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ziip830daj-r4e9w2rdcm.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sfw6gsx2ne-lcd1t2u6c8.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\kltvbt60wa-c2oey78nd0.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hednimu2se-tdbxkamptv.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\4pbmzdvc0u-j5mq2jizvt.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sn71gkud7y-06098lyss8.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\zrs6alowv0-nvvlpmu67g.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\jx31p8vq63-s35ty4nyc5.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\u6sj4300zj-pj5nd1wqec.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\7zsu4eafxv-46ein0sx1k.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\w7vuxtdoqs-v0zj4ognzu.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\fgp659h2i0-37tfw0ft22.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\wrvv9ftez9-hrwsygsryq.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\y18ijbzbkh-pk9g2wxc8p.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0yx0tbylq0-ft3s53vfgj.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\4g5ds8vnko-6cfz1n2cew.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\smu5r34o7x-6pdc2jztkx.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\2xi46j7u34-493y06b0oq.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sepa602foi-iovd86k7lj.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\t0vqzqhdac-vr1egmr9el.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\yb4nxhgkvb-kbrnm935zg.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\3n2thy1ih8-jj8uyg4cgr.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\p3t7ffhais-y7v9cxd14o.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\uusee6hgy9-notf2xhcfb.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\h2wpsgba6m-h1s4sie4z3.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\dpbxbbbas7-63fj8s7r0e.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ykbrs3rs8p-0j3bgjxly4.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\xao4b0b7ay-47otxtyo56.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\p23iong9sh-4v8eqarkd7.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sgsy1z7taz-356vix0kms.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\f0g5q0q1zq-83jwlth58m.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\anjilrfxlh-mrlpezrjn3.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\t51gmb7euw-lzl9nlhx6b.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0wopt2508y-ag7o75518u.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\xis4x8dmxs-x0q3zqp4vz.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\9gf07ntldg-0i3buxo5is.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hskb6uiuaw-o1o13a6vjx.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\tkb0pzs2hn-ttgo8qnofa.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sfs1jwvtod-2z0ns9nrw6.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0km4unm843-muycvpuwrr.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\puo14tpqws-87fc7y1x7t.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sngh9cqrtk-mlv21k5csn.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\l2kpv39yra-lbaa2ovjl9.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\6v9ycpz4nk-lbaa2ovjl9.gz
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.development.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStor.A14DCA9F.Up2Date
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\refint\BookStoreAssignmentD3.dll
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.pdb
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.genruntimeconfig.cache
+C:\WiproTraining\Day-29\BookStoreAssignmentD3\obj\Debug\net9.0\ref\BookStoreAssignmentD3.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\appsettings.Development.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\appsettings.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.staticwebassets.runtime.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.staticwebassets.endpoints.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.exe
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.deps.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.runtimeconfig.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\BookStoreAssignmentD3.pdb
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Azure.Core.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Azure.Identity.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.ClientModel.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.Memory.Data.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.csproj.AssemblyReference.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.AssemblyInfoInputs.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.AssemblyInfo.cs
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.csproj.CoreCompileInputs.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.MvcApplicationPartsAssemblyInfo.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.RazorAssemblyInfo.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.RazorAssemblyInfo.cs
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\bundle\BookStoreAssignmentD3.styles.css
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\scopedcss\projectbundle\BookStoreAssignmentD3.bundle.scp.css
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\dsq2o04l60-b9sayid5wm.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\bih0mxpnp7-61n19gt1b8.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\fph4zpyzfl-xtxxf3hu2r.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hchzgswcny-bqjiyaj88i.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\8vl0unfp5m-c2jlpeoesf.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\78xxr855be-erw9l3u2r3.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\j6fzvqd0gl-aexeepp0ev.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q6rec5e9yu-d7shbmvgxk.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q40loj7cb3-ausgxo2sd3.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ub9lsi1qq1-k8d9w2qqmf.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\aa4i1wusue-cosvhxvwiu.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\q9p8pku31j-ub07r2b239.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\u9hyn6h65z-fvhpjtyr6v.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0qhq4v0e4e-b7pk76d08c.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\z903f9rcg4-fsbi9cje9m.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\1k6pvtkd8z-rzd6atqjts.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\yddmf13agl-ee0r1s7dh0.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ctchorqx8w-dxx9fxp4il.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\j051aph4q8-jd9uben2k1.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0vuddrnqkk-khv3u5hwcm.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ziip830daj-r4e9w2rdcm.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sfw6gsx2ne-lcd1t2u6c8.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\kltvbt60wa-c2oey78nd0.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hednimu2se-tdbxkamptv.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\4pbmzdvc0u-j5mq2jizvt.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sn71gkud7y-06098lyss8.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\zrs6alowv0-nvvlpmu67g.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\jx31p8vq63-s35ty4nyc5.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\u6sj4300zj-pj5nd1wqec.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\7zsu4eafxv-46ein0sx1k.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\w7vuxtdoqs-v0zj4ognzu.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\fgp659h2i0-37tfw0ft22.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\wrvv9ftez9-hrwsygsryq.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\y18ijbzbkh-pk9g2wxc8p.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0yx0tbylq0-ft3s53vfgj.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\4g5ds8vnko-6cfz1n2cew.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\smu5r34o7x-6pdc2jztkx.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\2xi46j7u34-493y06b0oq.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sepa602foi-iovd86k7lj.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\t0vqzqhdac-vr1egmr9el.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\yb4nxhgkvb-kbrnm935zg.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\3n2thy1ih8-jj8uyg4cgr.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\p3t7ffhais-y7v9cxd14o.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\uusee6hgy9-notf2xhcfb.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\h2wpsgba6m-h1s4sie4z3.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\dpbxbbbas7-63fj8s7r0e.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\ykbrs3rs8p-0j3bgjxly4.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\xao4b0b7ay-47otxtyo56.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\p23iong9sh-4v8eqarkd7.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sgsy1z7taz-356vix0kms.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\f0g5q0q1zq-83jwlth58m.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\anjilrfxlh-mrlpezrjn3.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\t51gmb7euw-lzl9nlhx6b.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0wopt2508y-ag7o75518u.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\xis4x8dmxs-x0q3zqp4vz.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\9gf07ntldg-0i3buxo5is.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\hskb6uiuaw-o1o13a6vjx.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\tkb0pzs2hn-ttgo8qnofa.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sfs1jwvtod-2z0ns9nrw6.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\0km4unm843-muycvpuwrr.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\puo14tpqws-87fc7y1x7t.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\sngh9cqrtk-mlv21k5csn.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\l2kpv39yra-lbaa2ovjl9.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\compressed\6v9ycpz4nk-lbaa2ovjl9.gz
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.development.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStor.A14DCA9F.Up2Date
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\refint\BookStoreAssignmentD3.dll
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.pdb
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\BookStoreAssignmentD3.genruntimeconfig.cache
+D:\wiprotraining\ado.net manual assignments\BookStoreAssignmentD3\BookStoreAssignmentD3\obj\Debug\net9.0\ref\BookStoreAssignmentD3.dll
